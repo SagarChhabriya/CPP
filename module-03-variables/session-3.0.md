@@ -45,6 +45,14 @@ int sum = x + y;
 cout << sum; // Output: 11
 ```
 
+### Solve these before moving forward
+
+<div style="display: flex; align-items: flex-start;">
+  <img src="assets/01-rectangle.jpg" alt="Rectangle Image" style="width: auto; height: 400px; margin-right: 10px;">
+  <img src="assets/02-square.jpg" alt="Square Image" style="width: auto; height: 400px;">
+</div>
+
+
 ## Declaring Multiple Variables
 
 ### Declare Many Variables:
