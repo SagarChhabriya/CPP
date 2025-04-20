@@ -48,7 +48,8 @@ Iteration 5
 
 ### Practice Questions:
 1. Print numbers from 1 to 100.
-2. Print the multiplication table of a given number.
+2. Print numbers from 100 to 1.
+3. Print the multiplication table of a given number.
   - Example:
   
   ```mathematica
